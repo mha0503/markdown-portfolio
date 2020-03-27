@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Learn HTML
+2. Learn CSS
+3. Learn Github
