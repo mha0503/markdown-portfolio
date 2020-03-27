@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a dog] (https://www.valleywestvets.com/services/dogs/breeds/labrador-retriever)
