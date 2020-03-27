@@ -1,1 +1,1 @@
-![Image of a dog] (https://www.valleywestvets.com/services/dogs/breeds/labrador-retriever)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
